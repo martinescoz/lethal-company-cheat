@@ -24,3 +24,5 @@ tested with game version v40 and v45 (You can check it in the game's main menu)
 ## Reference
 - [How to Hack Unity - Mono Injection & CodeStage Anticheat](https://guidedhacking.com/threads/how-to-hack-unity-mono-injection-codestage-anticheat.17915/)
 - [This UC post](https://www.unknowncheats.me/forum/3921191-post32.html) saved me from the situation where the WorldToScreenPoint func of the player.gameplayCamera didn't work as I expected.
+
+
